@@ -19,7 +19,6 @@ theme:
   name: material
   features:
     - tabs
-    - instant
 
   logo: assets/logo.png
   favicon: assets/favicon.ico

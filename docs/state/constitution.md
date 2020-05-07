@@ -1,4 +1,4 @@
-# Constitution
+# Constitution of the State of Mayflower
 
 *AS PRESENTED BY THE CONSTITUTIONAL CONVOCATION*
 > In order to establish transparent, just, fair, and pragmatic governance of our State, we the people do with these means hereby establish and seal this Sixth Constitution for our State of Mayflower.

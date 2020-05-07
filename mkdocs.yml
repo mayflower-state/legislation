@@ -32,6 +32,8 @@ plugins:
   - search:
       separator: '[\s\-]+'
   - awesome-pages
+  - git-revision-date-localized:
+      type: date
 
 markdown_extensions:
   - admonition

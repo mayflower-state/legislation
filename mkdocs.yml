@@ -1,0 +1,38 @@
+site_name: State of Mayflower Legislation
+# nav:
+#   - Home: index.md
+#   - About: about.md
+#   - State Law:
+#     - Constitution: constitution/constitution.md
+#     - Acts of Congress: acts-of-congress/index.md
+
+theme:
+  name: material
+  features:
+    - tabs
+    - instant
+
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+
+plugins:
+  - search:
+      separator: '[\s\-]+'
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+- stylesheets/extra.css

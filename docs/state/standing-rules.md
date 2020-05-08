@@ -1,3 +1,6 @@
+---
+title: Senate Standing Rules
+---
 # Standing Rules of the Mayflower State Senate
 
 ### RULE I — THE PRESIDING OFFICER
@@ -11,14 +14,23 @@
 ### RULE II — JOURNAL OF RECORD AND SENATE STAFF
 
 1. The Journal of Record shall contain:
-a) date and time of sessions convening and dispersing;
-b) register of present members;
-c) motions;
-d) orders of the presiding officer;
-e) votes; and
-f) messages between the Senate and other branches of Government.
+
+    1. date and time of sessions convening and dispersing;
+
+    2. register of present members;
+
+    3. motions;
+
+    4. orders of the presiding officer;
+
+    5. votes; and
+
+    6. messages between the Senate and other branches of Government.
+
 2. The Journal shall not contain transcripts of speeches by members and specific oration that is irrelevant to the record.
+
 3. The President of the Senate shall appoint, at the beginning of every Congress, a Chief Clerk and any additional clerks he deems necessary. The President of the Senate may remove a clerk at any time.
+
 4. The President of the Senate, after a resolution of the Senate, may appoint a Sergeant-at-arms. The Sergeant-at-arms shall be from the Mayflower State Police, with a rank of Trooper or higher.
 
 ---
@@ -28,9 +40,9 @@ f) messages between the Senate and other branches of Government.
 1. The quorum requirement for normal business shall be 1⁄2 of the membership.
 2. The membership shall convene in regular session at least once every two weeks, as prescribed by the Lieutenant Governor.
 3. Special sessions shall be convened by the Governor or by 1⁄2 of the senate membership. During special sessions convened by the Governor, the legislature shall be confined to discuss:
-a) subjects designated in the calling of an emergency session;
-b) subjects presented by him; and
-c) the reconsideration of bills vetoed by the Governor.
+    1. subjects designated in the calling of an emergency session;
+    2. subjects presented by him; and
+    3. the reconsideration of bills vetoed by the Governor.
 4. Emergency Sessions that are convened by 1⁄2 of the membership shall not be limited in discussion.
 5. The membership, when wishing to perform an override of a veto or an impeachment, shall require a presence of 2⁄3 of the membership at the session.
 6. If the membership, when convened, does not meet Quorum then the only motion that shall be available is to compel the attendance of absent members.
@@ -41,11 +53,11 @@ c) the reconsideration of bills vetoed by the Governor.
 
 1. At the beginning of the Congress, the first item of business shall be taking the oath. The second item of business shall be to elect the President pro tempore from the sworn-in members. The third item of business shall be to appoint the members to the standing committees.
 2. During regular business:
-a) roll shall be called and the register of the members taken;
-b) priority shall be given to unfinished business left at the end of the previous session;
-c) members shall then listen to any members, confirm any Judicial or Cabinet appointment, hear committee reports, and then proceed to hear bills that have been tabled. The presiding officer or the clerk shall read out the title unless it is motioned that the entire text of the bill is to be read;
-d) the presiding officer shall then entertain any other petitions or motions from the floor after which, the Orders of the Day will then be created in the order that they were introduced. No motions placed on the Orders of the Day shall be removed without its regular course;
-e) sessions will close when adjournment is made solely from the floor of the Senate.
+    1. roll shall be called and the register of the members taken;
+    2. priority shall be given to unfinished business left at the end of the previous session;
+    3. members shall then listen to any members, confirm any Judicial or Cabinet appointment, hear committee reports, and then proceed to hear bills that have been tabled. The presiding officer or the clerk shall read out the title unless it is motioned that the entire text of the bill is to be read;
+    4. the presiding officer shall then entertain any other petitions or motions from the floor after which, the Orders of the Day will then be created in the order that they were introduced. No motions placed on the Orders of the Day shall be removed without its regular course;
+    5. sessions will close when adjournment is made solely from the floor of the Senate.
 
 ---
 
@@ -61,9 +73,9 @@ e) sessions will close when adjournment is made solely from the floor of the Sen
 8. A member having been named shall not be allowed to resume their seat until the presiding officer returns the member their rights to attend the session, or a new session has begun.
 9. If, after a member is seated or named, the action of the presiding officer is appealed, the Senate shall decide the case by a majority vote of the present members; if there is no immediate appeal, the decision of the presiding officer shall be conclusive.
 10. No member may interrupt another except:
-a) in compliance with the motions in order;
-b) to doubt the presence of a quorum; or
-c) to ask the person speaking to yield.
+    1. in compliance with the motions in order;
+    2. to doubt the presence of a quorum; or
+    3. to ask the person speaking to yield.
 11. No member shall speak more than once on a question unless all other members have been afforded that chance.
 12. No member shall occupy more than ten minutes at a time while speaking where debate is unlimited.
 13. All members shall be courteous, avoid personal attacks, avoid digressions and shall direct their remarks to the presiding officer
@@ -126,13 +138,13 @@ c) to ask the person speaking to yield.
 ### RULE IX — INTRODUCTION OF BILLS
 
 1. All members wishing to introduce a bill to the floor through a motion must publish the draft bill at least 24 hours before the motion is made.
-1. Repealing a hence signed piece of legislation shall require a simple majority of the members as a collective in favor of such motion.
-2. Overriding the Governor’s veto of passed legislation shall require a 3⁄4 of the members present in favor of such motion.
-3. All Bills will be given the chance to have amendments or amendments of amendments, scrutinized by the floor in one straight reading of the bill.
-4. The presiding officer or clerk will update when a Bill has gone through its straight reading in the respective channel in the Legislative Discord, and mark any amendments made to the bill in red font. Any removed or edited text must be struck out and must be in red font.
-5. The presiding officer or clerk shall update the Trello whenever a Bill has been introduced and shall put the bill under the respective list within the Trello.
-6. The President, President pro tempore, or clerk will appoint bills their number and fill out any dates, numbers, or names which the template has marked in red.
-7. In the instance that a Senator has planned absence but wishes to vote on a bill planned to be brought to the floor, they may notify the presiding officer to accept their vote in proxy.
+2. Repealing a hence signed piece of legislation shall require a simple majority of the members as a collective in favor of such motion.
+3. Overriding the Governor’s veto of passed legislation shall require a 3⁄4 of the members present in favor of such motion.
+4. All Bills will be given the chance to have amendments or amendments of amendments, scrutinized by the floor in one straight reading of the bill.
+5. The presiding officer or clerk will update when a Bill has gone through its straight reading in the respective channel in the Legislative Discord, and mark any amendments made to the bill in red font. Any removed or edited text must be struck out and must be in red font.
+6. The presiding officer or clerk shall update the Trello whenever a Bill has been introduced and shall put the bill under the respective list within the Trello.
+7. The President, President pro tempore, or clerk will appoint bills their number and fill out any dates, numbers, or names which the template has marked in red.
+8. In the instance that a Senator has planned absence but wishes to vote on a bill planned to be brought to the floor, they may notify the presiding officer to accept their vote in proxy.
 
 ---
 
@@ -159,19 +171,19 @@ c) to ask the person speaking to yield.
 
 1. Standing committees shall consist of no more than three senators, elected through senate resolution.
 2. The following standing committees shall have members appointed to it at the commencement of each term of congress, and shall have jurisdiction over the following subjects:
-a) Committee on Government Oversight — impeachment proceedings on any executive or judicial official, misconduct by the executive branch, management of executive operations, audits of the executive branch, and maintenance of transparency between the public and the executive branch;
-b) Committee on Foreign Affairs — diplomacy, the operations and administration of the Department of State, ambassadors, interstate treaties, foreign policy, intervention abroad, declarations of war, and relations with Mayflower and any other foreign entities in general;
-c) Committee on Ethics — misconduct of any member of the legislative branch, expulsion hearings, disciplinary action towards senators, and investigation of ethics violations by senators in general;
-d) Committee on Homeland Security — matters concerning state security, the operations and administration of the National Guard, military operations, counterterrorism, and intelligence;
-e) Committee on the Judiciary — judicial proceedings, judges, justices, the operations and administration of the Department of Justice, criminal penalties, civil liberties, and the judiciary and its operations in general; and
-f) Committee on Public Safety and Law Enforcement — law enforcement, fire prevention and suppression, emergency medical services, the operations and administration of the State Police, the operations and administration of the Department of Parks and Wildlife, the operations and administration of the Law Enforcement Training Institute, and public safety in general.
+    1. Committee on Government Oversight — impeachment proceedings on any executive or judicial official, misconduct by the executive branch, management of executive operations, audits of the executive branch, and maintenance of transparency between the public and the executive branch;
+    2. Committee on Foreign Affairs — diplomacy, the operations and administration of the Department of State, ambassadors, interstate treaties, foreign policy, intervention abroad, declarations of war, and relations with Mayflower and any other foreign entities in general;
+    3. Committee on Ethics — misconduct of any member of the legislative branch, expulsion hearings, disciplinary action towards senators, and investigation of ethics violations by senators in general;
+    4. Committee on Homeland Security — matters concerning state security, the operations and administration of the National Guard, military operations, counterterrorism, and intelligence;
+    5. Committee on the Judiciary — judicial proceedings, judges, justices, the operations and administration of the Department of Justice, criminal penalties, civil liberties, and the judiciary and its operations in general; and
+    6. Committee on Public Safety and Law Enforcement — law enforcement, fire prevention and suppression, emergency medical services, the operations and administration of the State Police, the operations and administration of the Department of Parks and Wildlife, the operations and administration of the Law Enforcement Training Institute, and public safety in general.
 3. The President or Clerk of the Senate shall be responsible for appropriately referring legislation or nominations to a committee upon introduction, as applicable.
 4. Members may not be on any more than three committees at a given time.
 5. All standing committees shall have the power to:
-a) issue a subpoena to testify in front of the given Committee;
-b) discuss bills passed to them by the Senate;
-c) pass resolutions or reports; and
-d) introduce bills to the Senate
+    1. issue a subpoena to testify in front of the given Committee;
+    2. discuss bills passed to them by the Senate;
+    3. pass resolutions or reports; and
+    4. introduce bills to the Senate
 6. Committees may meet separately to normal sessions, so long as the Journal of Record is maintained by either the Clerk of the Senate or the Clerk of the Committee.
 7. Standing committees shall be granted authority to create their own standing rules but within the framing of the existing Standing Rules of the Senate.
 8. The members of each committee shall elect a chairperson amongst themselves.
@@ -181,13 +193,12 @@ d) introduce bills to the Senate
 ### RULE XIII — THE PRESIDENT
 
 1. The President of the Senate may:
-a) participate in debate;
-b) sit on committees, if elected; and
-c) cast votes on Senate resolutions, and other Senate-only documents.
+    1. participate in debate;
+    2. sit on committees, if elected; and
+    3. cast votes on Senate resolutions, and other Senate-only documents.
 
 ---
 
 ### RULE XIV — AMENDMENTS TO THESE RULES
 
 1. Any proposal to amend the rules shall be done in writing and sent to the President of the Senate or President pro tempore. No motion to amend these rules shall be in order unless by one day’s notice. No amendment shall take effect unless 3⁄4 of the Senate be in agreement, sitting with 2⁄3 quorum.
-

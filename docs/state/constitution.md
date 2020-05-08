@@ -1,6 +1,10 @@
-# Constitution of the State of Mayflower
+---
+title: Constitution
+---
+# The Constitution of the State of Mayflower
 
 *AS PRESENTED BY THE CONSTITUTIONAL CONVOCATION*
+
 > In order to establish transparent, just, fair, and pragmatic governance of our State, we the people do with these means hereby establish and seal this Sixth Constitution for our State of Mayflower.
 
 ## ART I. - DECLARATION OF RIGHTS
@@ -209,12 +213,12 @@ Before a Member of the Legislature on the Execution of his Office, he shall take
 ### Section V, of the Judiciary.
 
 Before a member of the judiciary, on the Execution of his Office, he shall take the following Oath or Affirmation in-game:
-> I do solemnly swear (or affirm) that I will support and defend the Constitution and all laws of the State of Mayflower; I shall hold no prejudice and administer justice irrespective of the persons before me; and that I take this obligation freely, ready to impartially discharge the duties of the office. So help me God.[name=Judiciary Member]
+> I do solemnly swear (or affirm) that I will support and defend the Constitution and all laws of the State of Mayflower; I shall hold no prejudice and administer justice irrespective of the persons before me; and that I take this obligation freely, ready to impartially discharge the duties of the office. So help me God.
 
 ### Section VI, of a Soldier.
 
 Before a Soldier on Oath of Enlistment, he shall take the following Oath or Affirmation in-game:
-> I do solemnly swear (or affirm) that I will support and defend the Constitution of the State of Mayflower against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter.[name=Soldier of Mayflower]
+> I do solemnly swear (or affirm) that I will support and defend the Constitution of the State of Mayflower against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter.
 
 ## ART XII. - VALIDITY OF ARTICLES
 

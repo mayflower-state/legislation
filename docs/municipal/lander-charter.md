@@ -73,15 +73,8 @@ C. The Mayor shall have the power to direct the City Attorney to act in court as
 
 D. The Mayor shall have the power to introduce legislation to the City Council and to veto any ordinances passed by the City Council.
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-    <p>All ordinances passed by the City Council must be signed by the Mayor in order to be added to this Charter.</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. All ordinances passed by the City Council must be signed by the Mayor in order to be added to this Charter.</p>
+{: style="list-style-type: lower-alpha"}
 
 E. The Mayor shall have the power to issue permits detailed in [Title VI](#title-vi-regulation-of-activities-ordinances)​.
 
@@ -205,18 +198,10 @@ C. The Police Chief may appoint as many Officers below them as the City Budget a
 
 D. The Police Chief may appoint Auxiliary Officers who do not count towards full time capacity as a temporary measure, with ten (10) being the maximum.
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-      <p>Of the Auxiliary Police Force, no more than one (1) may be promoted to Sergeant.</p>
-    </li>
-    <li>
-      <p>All others are prohibited from being promoted above the rank of Officer.</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. Of the Auxiliary Police Force, no more than one (1) may be promoted to Sergeant.
+{: style="list-style-type: lower-alpha"}
+2. All others are prohibited from being promoted above the rank of Officer.
+{: style="list-style-type: lower-alpha"}
 
 ### Chapter ii: Fire
 
@@ -234,22 +219,10 @@ C. All roundabouts must flow in a counter-clockwise fashion
 
 D. Tractor trailers may only drive on the following designated truck routes:
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. ​
+{: style="list-style-type: lower-alpha"}
 
 E. The Speed Limit on all roads shall be thirty (30) miles per hour unless specified below:
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. ​
+{: style="list-style-type: lower-alpha"}

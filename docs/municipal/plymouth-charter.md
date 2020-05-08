@@ -73,15 +73,8 @@ C. The Mayor shall have the power to direct the Town Attorney to act in court as
 
 D. The Mayor shall have the power to introduce legislation to the Town Council and to veto any ordinances passed by the Town Council.
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-      <p>All ordinances passed by the Town Council must be signed by the Mayor in order to be added to this Charter.</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. All ordinances passed by the Town Council must be signed by the Mayor in order to be added to this Charter.
+{: style="list-style-type: lower-alpha"}
 
 E. The Mayor shall have the power to issue permits detailed in Title VI​.
 
@@ -206,18 +199,10 @@ C. The Police Chief may appoint as many Officers below them as the Town Budget a
 
 D. The Police Chief may appoint Auxiliary Officers who do not count towards full time capacity as a temporary measure, with ten (10) being the maximum.
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-      <p>Of the Auxiliary Police Force, no more than one (1) may be promoted to Sergeant.</p>
-    </li>
-    <li>
-      <p>All others are prohibited from being promoted above the rank of Officer.</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. Of the Auxiliary Police Force, no more than one (1) may be promoted to Sergeant.
+{: style="list-style-type: lower-alpha"}
+2. All others are prohibited from being promoted above the rank of Officer.
+{: style="list-style-type: lower-alpha"}
 
 ### Chapter ii: Fire
 
@@ -235,36 +220,18 @@ C. All roundabouts must flow in a counter-clockwise fashion
 
 D. Tractor trailers may only drive on the following designated truck routes:
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-      <p>Plymouth Avenue</p>
-    </li>
-    <li>
-      <p>McDoogle Street</p>
-    </li>
-    <li>
-      <p>DeLacy Street</p>
-    </li>
-    <li>
-      <p>Harbor Road</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. Plymouth Avenue
+{: style="list-style-type: lower-alpha"}
+2. McDoogle Street
+{: style="list-style-type: lower-alpha"}
+3. DeLacy Street
+{: style="list-style-type: lower-alpha"}
+4. Harbor Road
+{: style="list-style-type: lower-alpha"}
 
 E. The Speed Limit on all roads shall be thirty (30) miles per hour unless specified below:
 
-<ol style="list-style-type: none">
-  <li>
-  <ol>
-    <li>
-      <p>Plymouth Avenue, fifty (50) miles per hour</p>
-    </li>
-    <li>
-      <p>Canyon Road, fifty (50) miles per hour</p>
-    </li>
-  </ol>
-  </li>
-</ol>
+1. Plymouth Avenue, fifty (50) miles per hour
+{: style="list-style-type: lower-alpha"}
+2. Canyon Road, fifty (50) miles per hour
+{: style="list-style-type: lower-alpha"}

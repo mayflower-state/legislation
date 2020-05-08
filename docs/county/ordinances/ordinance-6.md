@@ -21,8 +21,8 @@ __**THE BOARD OF NEW HAVEN COUNTY ENACTS**__
 
 1. **Revved, or revving** - the act of engaging the acceleration mechanism of a vehicle, which would cause the speed of a vehicle to increase if any gear other than neutral were engaged.
 2. **Nuisance** - Any noise which is displeasing to any individual within earshot.
-3. **Disturbing the Peace** - 4 M.C.C. §2 at the time of writing, otherwise the relevant charge contained on the MCC.
-4. **Disorderly Conduct** - 4 M.C.C. §1 at the time of writing, otherwise the relevant charge contained on the MCC.
+3. **Disturbing the Peace** - A misdemeanor offence punishable by 5 minutes in the county jail or a $100 fine.
+4. **Disorderly Conduct** - A misdemeanor offence punishable by 10 minutes in the county jail or a $150 fine.
 
 ## Section II - Text
 

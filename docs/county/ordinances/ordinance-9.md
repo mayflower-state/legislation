@@ -29,31 +29,40 @@ __**THE BOARD OF NEW HAVEN COUNTY ENACTS**__
     1. Except where the individual is doing so for the purpose of defending themselves or others.
     2. Except where the individual is an on duty law enforcement officer.
     3. Except where the individual is in premises which are readily identifiable as a firearms dealership or firing range.
-3. It will be illegal to carry a long gun in the areas of Plymouth and Lander.
+3. It will be illegal to carry a long gun in the area of Plymouth.
     1. Except where the individual is doing so for the purpose of defending themselves or others from immediate life threatening danger.
         1. This exemption qualifies only so far as a reasonable individual would recognise circumstances which pose ‘immediate life threatening danger’.
     2. Except where the individual is an on duty law enforcement officer, on duty member of the National Guard, on duty member of the State Parks and Wildlife Department, or on duty member of the New Haven County Fire Department.
     3. Except where the individual who is carrying the long gun remains inside a vehicle at all times and does not exit the vehicle while in the boundaries of the relevant area
         1. The individual must only enter the boundaries of the relevant area in this case to transit through the area via the shortest possible route while obeying all relevant traffic laws.
     4. Except where the individual is carrying the long gun exclusively within the confines or parking lot of a licensed firearms dealership for the purpose of purchasing the firearm and then storing it in their vehicle.
-    5. Except where the individual or a group to which they belong, and which they are acting on behalf of at the time they are carrying a long gun, has been granted a license to do so under
-    Section II of this ordinance.
+    5. Except where the individual or a group to which they belong, and which they are acting on behalf of at the time they are carrying a long gun, has been granted a license to do so under Section II of this ordinance or under any state legislation.”
     6. Any claimed exemption under Section I (c) will be accepted at the discretion of responding officers, or in the case of prosecution, the relevant court.
-4. Any municipal ordinance prohibiting the brandishing of firearms, discharging of firearms, or possession of long firearms is to be considered to have been repealed and therefore unenforceable at such time as this ordinance is adopted into law.
+4. It will be illegal to carry a long gun in the areas of Lander during any county emergency as defined in the County Emergency Ordinance, 2019.
+    1. Except where the individual is doing so for the purpose of defending themselves or others from immediate life threatening danger.
+        1. This exemption qualifies only so far as a reasonable individual would recognise circumstances which pose ‘immediate life threatening danger’.
+    2. Except where the individual is an on duty law enforcement officer, on duty member of the National Guard, on duty member of the State Parks and Wildlife Department, or on duty member of the New Haven County Fire Department.
+    3. Except where the individual who is carrying the long gun remains inside a vehicle at all times and does not exit the vehicle while in the boundaries of the relevant area
+        1. The individual must only enter the boundaries of the relevant area in this case to transit through the area via the shortest possible route while obeying all relevant traffic laws.
+    4. Except where the individual is carrying the long gun exclusively within the confines or parking lot of a licensed firearms dealership for the purpose of purchasing the firearm and then storing it in their vehicle.
+    5. Except where the individual or a group to which they belong, and which they are acting on behalf of at the time they are carrying a long gun, has been granted a license to do so under Section II of this ordinance or under any state legislation.
+    6. Any claimed exemption under Section I (c) will be accepted at the discretion of responding officers, or in the case of prosecution, the relevant court
+5. Any municipal ordinance prohibiting the brandishing of firearms, discharging of firearms, or possession of long firearms is to be considered to have been repealed and therefore unenforceable at such time as this ordinance is adopted into law.
 
-## Section II - Provisions for the Licensing of Legal Firearms Sales
+## Section III - Provisions for the Licensing of Legal Firearms Sales
 
 1. All licensing for sales of firearms and exemptions under Section I (c) (v) will be dealt with under the authority of the Sheriff of New Haven County on behalf of the County Commission.
     1. The requirements for, processes of, and collation of information regarding licensing will be set by the Sheriff of New Haven County and carried out under his office.
     2. The Sheriff may authorise any of his subordinates to deal with licensing under this section.
 
-## Section III - Enforcement
+## Section IV - Enforcement
 
 1. Violating the provisions of Section I (a), will be an offence known as ‘Brandishing a firearm in city limits’, which will leave the offender liable to being fined for a sum not exceeding $150 or arrested for a period not exceeding 10 minutes in the county jail.
 2. Violating the provisions of Section I (b), will be an offence known as ‘Discharging a firearm in city limits’, which will leave the offender liable to being fined for a sum not exceeding $200 or arrested for a period not exceeding 15 minutes in the county jail.
 3. Violating the provisions of Section I (c), will be an offence known as ‘Open carrying a long gun in city limits’, which will leave the offender liable to being fined for a sum not exceeding $125 or arrested for a period not exceeding 10 minutes in the county jail.
+4. Violating the provisions of Section I (d), will be an offence known as ‘Open carrying a long gun in city limits’, which will leave the offender liable to being fined for a sum not exceeding $125 or arrested for a period not exceeding 10 minutes in the county jail
 
-## Section IV - General Provisions
+## Section V - General Provisions
 
 1. Upon this County Ordnance being published, it shall go into effect immediately. All conflicting Municipal Ordinances & County Ordinances will be declared null and void.
 

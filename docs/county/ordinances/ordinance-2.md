@@ -14,7 +14,7 @@ __**THE BOARD OF NEW HAVEN COUNTY ENACTS**__
 
 ## Section I - Definitions
 
-1. **Relevant Authority** - The Sheriff of any county, or his appointed subordinate, in which an approved event is to be held.
+1. **Relevant Authority** - The Sheriff of New Haven County, or his appointed subordinate.
 2. **Approved Event** - Any event whose organisers have applied to the relevant authority for approval and ben granted approved status by that authority.
 3. **Disorderly Conduct** - The misdemeanor offence as defined by the Mayflower Criminal Code.
 4. **Event Organiser** - The event organiser is an individual who can show personal involvement in the planning of an event, to the satisfaction of a relevant authority. In the case of an event held by a government department or incorporated entity then the organiser should show, to the satisfaction of a relevant authority, that their position allows them to organise events on behalf of the entity of which they are a part.
@@ -37,9 +37,21 @@ __**THE BOARD OF NEW HAVEN COUNTY ENACTS**__
 5. When an event is approved, following a successful application by an event organiser, the relevant authority is responsible for considering what security arrangements, if any, need to be made.
 6. If a request is approved by the relevant authority then during the times listed on the approval request, per Section (c.iii), it will be an offence to either cross the event boundary without leave from either an event organiser, their appointed subordinates, or a peace officer. It will also be an offence to fail to leave the area inside the event boundary when ordered to do so by an event organiser, their appointed subordinates, or a peace officer.
 7. Members of any police force, fire, or ambulance service are exempt from the provisions in Section (f) whilst acting on behalf of the organisation through which they claim exemption.
-8. Any individual who commits an offence under Section (f) which is of a non-violent nature is to be removed to an area outside the event boundary in the first instance if appropriate and, in the case of subsequent offences they are to be charged with Disorderly Conduct.
-9. Any individual who commits an offence under Section (f) which is of a violent nature or while in possession of a firearm, ammunition, bladed article, or any other article capable of inflicting injury upon an individual, is to be removed to an area outside the event boundary if that is possible without causing injury to any officer involved, otherwise the individual is liable to arrest for disorderly conduct in the first instance.
-10. Any relevant authority has the ability to approve an event in the absence of an approval request from an event organiser if that authority believes there is reasonable grounds to do so, and that any application by an event organiser would be successful.
+8. Any individual who commits an offence under Section (f) is to be removed to an area outside the event boundary by a peace officer if their removal is deemed necessary by that, or any other, officer or event organiser, or an individual listed under Section (C.v) of this ordinance. In any case where an officer believes that removal to a place outside the event boundary is not appropriate, then, by the use of their own discretion, they may choose to make an arrest against an individual who has committed an offence under Section (f) for Disorderly Conduct.
+9. Any relevant authority has the ability to approve an event in the absence of an approval request from an event organiser if that authority believes there is reasonable grounds to do so, and that any application by an event organiser would be successful.
+10. No offence may be committed under Section (f) if the individual who would have otherwise committed an offence under that section is taking part in one of the following activities;
+    1. The individual is heading directly to a polling station;
+        1. If the individual is subject to this defence under the act but has committed an offence under Section (f) then the option for officers to escort the individual directly to a polling station and then escort them to a point outside the event boundary is available. In any case, officers should not use powers granted under this ordinance, unreasonably, to arrest or detain individuals who are in transit to any polling station.
+        2. Owing to the inability for individuals who do not hold citizenship to vote, this defence will not apply to those on the ‘tourist’ team.
+    2. The individual is heading through an event to gain access to private property;
+        1. In this case, the individual should be allowed to pass the vent boundary to gain access to property which they are responsible for. Officers should seek to make allowances for any individual to whom this provision applies.
+            1. Individuals subject to this defence may still be removed to a place outside the event boundary or charged with disorderly conduct if, while heading directly through the area of an approved event, they make attempts to interrupt the conduct of that approved event.
+11. No charge may be brought for an offence under Section (f) unless reasonable measures have been taken by either peace officers or event organisers to indicate that an event is taking place in that area or to make a visual or physical boundary which a reasonable individual could expect to understand as constituting an event boundary;
+    1. Examples of such reasonable measures include;
+        1. Publication in Mayflower Announcements of the existence of an event boundary;
+        2. The erection of cones and/or barriers around the event;
+        3. The posting of police officers around the event;
+    2. If the only reasonable measure taken to indicate there is an event taking place is a notice under Section (l.i.1) then prior to taking any action, an officer or event organiser must make a verbal warning to an individual who is committing or has committed an offence under Section (f) and give a reasonable opportunity for them to leave. This verbal warning satisfies the requirement for reasonable measures to be taken under Section (l).
 
 ## Section III - General Provisions
 

@@ -8,13 +8,6 @@ repo_name: KarlXYZ/mayflower-docs2
 repo_url: https://github.com/KarlXYZ/mayflower-docs2
 edit_uri: ""
 
-# nav:
-#   - Home: index.md
-#   - About: about.md
-#   - State Law:
-#     - Constitution: constitution/constitution.md
-#     - Acts of Congress: acts-of-congress/index.md
-
 theme:
   name: material
   features:

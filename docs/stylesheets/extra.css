@@ -19,3 +19,17 @@
   --md-code-bg-color: hsla(0, 0%, 96%, 1);
   --md-code-fg-color: hsla(200, 18%, 26%, 1);
 }
+
+/* a. i. 1. listing */
+.list-county > ol {
+  list-style-type: lower-alpha;
+}
+.list-county > ol > li > ol {
+  list-style-type: lower-roman;
+}
+.list-county > ol > li > ol > li > ol {
+  list-style-type: decimal;
+}
+.list-county > ol > li > ol > li > ol > li > ol {
+  list-style-type: lower-alpha;
+}

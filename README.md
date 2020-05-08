@@ -1,6 +1,6 @@
 # State of Mayflower Legislation
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/KarlXYZ/mayflower-docs2/actions"><img
     src="https://github.com/KarlXYZ/mayflower-docs2/workflows/deploy/badge.svg?branch=master"
     alt="GitHub Action"

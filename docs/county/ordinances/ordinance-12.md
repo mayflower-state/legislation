@@ -1,5 +1,5 @@
 ---
-title: 12 - Medical Practice
+title: 12 - Medical Practice [R]
 date: 2020-04-15
 ---
 # 12 - Medical Practice

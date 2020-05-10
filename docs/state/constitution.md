@@ -385,7 +385,6 @@ The Central Authority shall control and maintain a commission entitled the “Ma
 
 ## ART. XI - THE JUDICIARY.
 
-
 ### SEC. 1. ESTABLISHMENT.
 
 The judicial power of Mayflower, shall be vested in one Supreme Court and one District Court in each county. The Judges, both of the Supreme and Inferior Courts, shall hold their Offices during good behavior.
@@ -459,7 +458,6 @@ The grounds for recall are (1) lack of fitness, (2) incompetence, (3) neglect of
 The Lieutenant Governor shall certify the application or deny it for breaching the provisions of this Constitution. Once certified, the Lieutenant Governor shall publish the ballot with the Mayflower Electoral Commission for a recall election to occur within a week, on the next available Sunday, or with any scheduled election occurring within two weeks. In the event that the Recall is of the Lieutenant Governor, or the Lieutenant Governor is unable to fulfil his duties concerning recalls, those duties shall be given to the President pro tempore of the State Senate.
 
 ## ART. XIII - IMPEACHMENT.
-
 
 ### SEC. 1. SUSPENSION PENDING IMPEACHMENT.
 

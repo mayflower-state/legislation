@@ -1,8 +1,8 @@
 ---
-title: 12 - Medical Practice [R]
+title: 16 - Medical Practice [R]
 date: 2020-04-15
 ---
-# 12 - Medical Practice
+# 16 - Medical Practice
 
 !!! warning "Ordinance Repealed"
     This ordinance has been repealed and is no longer in effect.

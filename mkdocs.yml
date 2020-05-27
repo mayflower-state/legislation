@@ -13,6 +13,9 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
 
+  icon:
+    repo: fontawesome/brands/github
+
   include_search_page: false
   search_index_only: true
 
